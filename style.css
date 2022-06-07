@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#intro {
+    background: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
